@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 120px;
+}
+
+.App-header {
+  background-color: #F4F7F3;
+  padding: 20px;
+}
+
+.userFieldContainer {
+  display: inline-block;
+  border: 2px solid #ccc;
+  padding: 10px 20px;
+  box-shadow: 1px 4px 8px #aaa;
+  border-radius: 5px;
+  margin-top: 20px;
+  min-height: 105px;
+}

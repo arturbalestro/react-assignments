@@ -1,0 +1,23 @@
+.userNameField {
+    display: inline-block;
+    width: 100%;
+}
+.userNameField input {
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #777;
+    font-style: italic;
+    outline: none;
+}
+.userNameField input:focus {
+    border: 2px solid lightblue;
+}
+
+.userOutputBox {
+    display: block;
+    border: 1px solid #ccc;
+    padding-bottom: 10px;
+    box-shadow: 1px 4px 8px #aaa;
+    border-radius: 5px;
+    margin: 20px;
+}
